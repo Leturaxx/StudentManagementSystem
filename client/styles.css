@@ -1,0 +1,88 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f5f9;
+    margin: 0;
+    color: #222;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #174ea6;
+}
+
+.card {
+    background: white;
+    padding: 24px;
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px #00000012;
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 12px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background: #174ea6;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 3px;
+}
+
+button:hover {
+    background: #0c3473;
+}
+
+button.delete {
+    background: #d32f2f;
+}
+
+#cancelButton {
+    background: #666;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background: #174ea6;
+    color: white;
+}
+
+#message {
+    font-weight: bold;
+}

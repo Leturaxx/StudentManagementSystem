@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <main class="container">
+        <h1>Student Management System</h1>
+        <p>Manage your student records easily.</p>
+
+        <section class="card">
+            <h2 id="formTitle">Add Student</h2>
+
+            <form id="studentForm">
+                <input id="name" type="text"
+                       placeholder="Student Name" required>
+
+                <input id="department" type="text"
+                       placeholder="Department" required>
+
+                <input id="email" type="email"
+                       placeholder="Email Address" required>
+
+                <button id="saveButton" type="submit">
+                    Add Student
+                </button>
+
+                <button id="cancelButton"
+                        type="button" hidden>
+                    Cancel Edit
+                </button>
+            </form>
+        </section>
+
+        <section class="card">
+            <h2>Student Records</h2>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Department</th>
+                            <th>Email</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="studentTable"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <p id="message" role="status"></p>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
