@@ -1,0 +1,43 @@
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.staticwebassets.runtime.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.staticwebassets.endpoints.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.exe
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.deps.json
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.runtimeconfig.json
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.runtimeconfig.dev.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\StudentManagementApi copy.pdb
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\HotReload\browser-tools-key.public.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\HotReload\browser-tools-key.private.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.sourcelink.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\jsmodules\jsmodules.build.manifest.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\scopedcss\scopedcss.cache
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\scopedcss\bundle\StudentManagementApi copy.styles.css
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\swae.build.ex.cache
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentM.AC877C59.Up2Date
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\refint\StudentManagementApi copy.dll
+C:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.pdb
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\StudentManagementApi copy.genruntimeconfig.cache
+c:\Users\hp\Documents\GitHub\StudentManagementSystem\api\obj\Debug\net6.0\ref\StudentManagementApi copy.dll

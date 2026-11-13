@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\StudentManagementSystem\\api\\StudentManagementApi.csproj",
-      "projectName": "StudentManagementApi",
-      "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\StudentManagementSystem\\api\\StudentManagementApi.csproj",
+      "projectUniqueName": "c:\\Users\\hp\\Documents\\GitHub\\StudentManagementSystem\\api\\StudentManagementApi copy.csproj",
+      "projectName": "StudentManagementApi copy",
+      "projectPath": "c:\\Users\\hp\\Documents\\GitHub\\StudentManagementSystem\\api\\StudentManagementApi copy.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\StudentManagementSystem\\api\\obj\\",
+      "outputPath": "c:\\Users\\hp\\Documents\\GitHub\\StudentManagementSystem\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
